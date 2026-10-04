@@ -22,8 +22,13 @@ _.. this will create necessary build files, then running the top-level Program.c
 
 ### Git Stuff (standard, removed dist from .gitignore)
 .dev> `git init`
+
 .dev> `git add .`
+
 .dev> `git commit -m "first commit"`
+
 .dev> `git branch -M main`
+
 .dev> `git remote add origin https://github.com/ivan-2022b/_vyt.dev.git`
+
 .dev> `git push -u origin main`
